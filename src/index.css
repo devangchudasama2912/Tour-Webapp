@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@plugin "tailwindcss-animate";
+
+@theme {
+  --color-royal-blue: #0F172A;
+  --color-amber-accent: #F59E0B;
+  
+  --font-sans: 'Inter', sans-serif;
+  --font-gujarati: 'Noto Sans Gujarati', sans-serif;
+  
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
+}
+
+/* Custom Utilities */
+.font-gujarati {
+  font-family: var(--font-gujarati);
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #F8FAFC;
+  color: #0F172A;
+}

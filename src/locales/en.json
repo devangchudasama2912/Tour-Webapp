@@ -1,0 +1,72 @@
+{
+  "app": {
+    "upcoming_yatra": "Upcoming Yatra Packages"
+  },
+  "header": {
+    "brand": "Jay Mahakali Travels",
+    "call_now": "Call Now",
+    "change_language": "Change Language",
+    "call_number": "Call +91 98765 43210",
+    "nav_home": "Home",
+    "nav_tours": "All Tours",
+    "nav_about": "About Us",
+    "nav_contact": "Contact"
+  },
+  "hero": {
+    "badge": "Rated #1 in Gujarat",
+    "headline_1": "Divine Journeys,",
+    "headline_2": "Royal Comfort.",
+    "sub_1": "Premium AC Sleeper tours from Ahmedabad.",
+    "sub_2": "Designed exclusively for families and senior citizens.",
+    "cta": "Start Your Yatra"
+  },
+  "tour_card": {
+    "no_image": "Image Not Available",
+    "next": "Next",
+    "type": "Type",
+    "price_per_person": "Price Per Person"
+  },
+  "tour_modal": {
+    "next": "Next:",
+    "food_title": "Pure Gujarati Food",
+    "food_sub": "Home-made Taste",
+    "bus_title": "2x2 AC Sleeper",
+    "bus_sub": "Premium Comfort",
+    "inc_title": "All Inclusive",
+    "inc_sub": "No Hidden Costs",
+    "sup_title": "24/7 Support",
+    "sup_sub": "On Tour Assistance",
+    "about": "About the Tour",
+    "itinerary": "Day-wise Itinerary",
+    "total_price": "Total Price",
+    "per_person": "/ person",
+    "book_wa": "Book on WhatsApp"
+  },
+  "trust": {
+    "badge": "Why Choose Us",
+    "headline_1": "We don't just book tours,",
+    "headline_2": "we build relationships.",
+    "desc": "Gujarat's most trusted travel partner for senior citizens and families. Experience hospitality that feels like home.",
+    "feat_1_title": "Premium 2x2 Sleeper",
+    "feat_1_desc": "Brand new AC coaches with charging points, clean blankets, and air suspension for maximum comfort.",
+    "feat_2_title": "Pure Kathiyawadi Food",
+    "feat_2_desc": "We travel with our own Maharaj (Cook). Enjoy piping hot Thepla, Gathiya, and Shaak even in the mountains.",
+    "feat_3_title": "Senior Citizen Care",
+    "feat_3_desc": "Our tour managers are trained to assist elderly passengers at every step. We are patient, caring, and attentive."
+  },
+  "footer": {
+    "desc": "Connecting souls to the divine since 2010. We are a government registered tour operator based in Ahmedabad.",
+    "contact": "Contact",
+    "company": "Company",
+    "newsletter": "Newsletter",
+    "link_about": "About Us",
+    "link_fleet": "Our Fleet",
+    "link_test": "Testimonials",
+    "link_privacy": "Privacy Policy",
+    "news_msg": "Subscribe to get special discount on Chardham Yatra.",
+    "email_ph": "Enter your email",
+    "btn_sub": "Subscribe",
+    "rights": "All rights reserved.",
+    "credit": "Designed by Postify.studioo"
+  }
+}
