@@ -10,7 +10,7 @@ const TourDetailModal = ({ tour, onClose }) => {
     if (!tour) return null;
 
     const whatsappMessage = `Hello Jay Mahakali Travels, I am interested in the ${tour.title} starting ${tour.dates[0]}. Please send details.`;
-    const whatsappLink = `https://wa.me/911234567890?text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappLink = `https://wa.me/919624342001?text=${encodeURIComponent(whatsappMessage)}`;
 
     return (
         <AnimatePresence>
