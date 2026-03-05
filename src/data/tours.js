@@ -14,7 +14,7 @@ export const getTours = (lang) => {
         {
             id: 1,
             title: isGu ? "દક્ષિણ - ભારત" : "South India",
-            price: isGu ? "₹ ૨૯,૦૦૦/-" : "₹ 29,000/-",
+            price: isGu ? "₹ ૩૨,૦૦૦/-" : "₹ 32,000/-",
             duration: isGu ? "૧૮/૧૯ દિવસ" : "18/19 Days",
             dates: isGu ? ["૧૮/૦૪/૨૦૨૬"] : ["18/04/2026"],
             image: southImg,
@@ -43,15 +43,15 @@ export const getTours = (lang) => {
             ],
             inclusions: isGu ? [
                 "A.C. સ્લીપર બસ",
-                "૪ વ્યક્તિ વચ્ચે રૂમ (૨૯૦૦૦/-)",
-                "૩ વ્યક્તિ વચ્ચે રૂમ (૩૩૦૦૦/-)",
-                "૨ વ્યક્તિ વચ્ચે રૂમ (૩૫૦૦૦/-)",
+                "૪ વ્યક્તિ વચ્ચે રૂમ (૩૨૦૦૦/-)",
+                "૩ વ્યક્તિ વચ્ચે રૂમ (૩૫૦૦૦/-)",
+                "૨ વ્યક્તિ વચ્ચે રૂમ (૩૮૦૦૦/-)",
                 "એક ડબલ બેડ અને એક એક્સ્ટ્રા મેટ્રેસ"
             ] : [
                 "A.C. Sleeper Bus",
-                "Room on 4 sharing (29000/-)",
-                "Room on 3 sharing (33000/-)",
-                "Room on 2 sharing (35000/-)",
+                "Room on 4 sharing (32000/-)",
+                "Room on 3 sharing (35000/-)",
+                "Room on 2 sharing (38000/-)",
                 "One double bed and one extra mattress"
             ],
             foodType: isGu ? "ગુજરાતી ભોજન" : "Gujarati Food",
@@ -142,7 +142,7 @@ export const getTours = (lang) => {
         {
             id: 4,
             title: isGu ? "ઉત્તર પૂર્વ ભારત" : "North East India",
-            price: isGu ? "₹ ૩૦,૦૦૦/-" : "₹ 30,000/-",
+            price: isGu ? "₹ ૩૨,૦૦૦/-" : "₹ 32,000/-",
             duration: isGu ? "૨૧ દિવસ" : "21 Days",
             dates: isGu ? ["૨૮/૦૩/૨૦૨૬"] : ["28/03/2026"],
             image: northImg,

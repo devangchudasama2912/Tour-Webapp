@@ -49,7 +49,7 @@ const Header = () => {
                             <span>{i18n.language === 'gu' ? 'ENG' : 'GUJ'}</span>
                         </button>
                         <a
-                            href="tel:+919876543210"
+                            href="tel:+919624342001"
                             className="bg-amber-accent hover:bg-amber-600 text-white px-5 py-2.5 rounded-full font-bold text-sm shadow-lg shadow-amber-500/20 transition-all transform hover:-translate-y-0.5 flex items-center gap-2"
                         >
                             <Phone size={16} />
@@ -94,7 +94,7 @@ const Header = () => {
                                 <span>{t('header.change_language')}</span>
                             </button>
                             <a
-                                href="tel:+919876543210"
+                                href="tel:+919624342001"
                                 className="flex items-center justify-center gap-2 w-full py-4 rounded-xl bg-royal-blue text-white font-bold shadow-xl shadow-royal-blue/20"
                             >
                                 <Phone size={20} />
